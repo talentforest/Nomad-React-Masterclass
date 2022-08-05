@@ -17,7 +17,7 @@ const GlobalStyle = createGlobalStyle`
   }
   * {
     box-sizing: border-box;
-    font-family: monospace;
+    font-family: monospace, 'Nanum Gothic';
   }
   a {
     text-decoration: none;
@@ -145,6 +145,6 @@ const GlobalStyle = createGlobalStyle`
     border-spacing: 0;
   }
   #root {
-    padding: 30px;
+    margin: 30px 0;
   }
 `;

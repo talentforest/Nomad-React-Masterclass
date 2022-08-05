@@ -9,7 +9,7 @@ interface propsType {
 const Category = ({ category, onCategoryInput }: propsType) => {
   return (
     <Select value={category} onInput={onCategoryInput}>
-      <option value={Categories.TO_DO}>할 일 보기</option>
+      <option value={Categories.TO_DO}>모든 할 일 보기</option>
       <option value={Categories.DOING}>진행 중인 일 보기</option>
       <option value={Categories.DONE}>완료한 일 보기</option>
     </Select>
@@ -17,8 +17,8 @@ const Category = ({ category, onCategoryInput }: propsType) => {
 };
 
 const Select = styled.select`
-  width: 100px;
-  height: 25px;
+  width: min-content;
+  height: 30px;
   padding: 0 3px;
   font-weight: 700;
   font-size: 14px;
