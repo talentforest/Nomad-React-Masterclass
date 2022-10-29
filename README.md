@@ -1,9 +1,10 @@
 # 🗓 To Do 리스트
 
 ### 📍 To Do 리스트 소개
+
 > 자신만의 카테고리를 커스텀하여 할일 목록을 저장할 수 있는 투두리스트 앱입니다.
 >
-> ### [Demo](https://talentforest.github.io/nomad-react-masterclass/)
+> ### [Demo](https://talentforest.github.io/recoil-to-do-list/)
 
 ### ✨ 프로젝트에 사용한 스택 ✨
 
@@ -18,15 +19,16 @@
 <img width="60%" alt="스크린샷 2022-10-29 오후 11 33 40" src="https://user-images.githubusercontent.com/91457443/198837803-d77272fd-cf7a-4416-9f01-5a838d364979.png">
 
 ### 📍 To Do 리스트 기능 소개
+
 > <strong> 1. 카테고리를 직접 추가할 수 있습니다.</strong>
 
 > <strong> 2. 추가한 할일 목록은 진행중인 일, 완료한 일로 변경하거나 삭제할 수 있습니다.</strong>
 >
-> * Recoil의 `selector` 기능을 활용하여 할일 목록과 진행중인 일, 완료한 일을 구분합니다.
+> - Recoil의 `selector` 기능을 활용하여 할일 목록과 진행중인 일, 완료한 일을 구분합니다.
 
 > <strong> 3. 추가한 할일 목록은 로컬스토리지에 저장됩니다.</strong>
 >
-> * Recoil의 `effects` 기능을 통해 저장합니다.
+> - Recoil의 `effects` 기능을 통해 저장합니다.
 
 ### 📍 To Do 리스트 후기
 

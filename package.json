@@ -1,6 +1,6 @@
 {
-  "homepage": "https://talentforest.github.io/nomad-react-masterclass",
-  "name": "nomad-react-masterclass",
+  "homepage": "https://github.com/talentforest/recoil-to-do-list.git",
+  "name": "recoil-to-do-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -57,15 +57,15 @@
     "@types/react-helmet": "^6.1.5",
     "@types/styled-components": "^5.1.24"
   },
-  "description": "[Demo](\"https://talentforest.github.io/nomad-react-masterclass/\")",
+  "description": "[Demo](\"https://talentforest.github.io/recoil-to-do-list/\")",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/talentforest/nomad-react-masterclass.git"
+    "url": "git+https://github.com/talentforest/recoil-to-do-list.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/talentforest/nomad-react-masterclass/issues"
+    "url": "https://github.com/talentforest/recoil-to-do-list/issues"
   }
 }
