@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/talentforest/recoil-to-do-list/static/js/main.f8598ac2.js",
-    "index.html": "/talentforest/recoil-to-do-list/index.html",
-    "main.f8598ac2.js.map": "/talentforest/recoil-to-do-list/static/js/main.f8598ac2.js.map"
+    "main.js": "/recoil-to-do-list/static/js/main.d80b5211.js",
+    "index.html": "/recoil-to-do-list/index.html",
+    "main.d80b5211.js.map": "/recoil-to-do-list/static/js/main.d80b5211.js.map"
   },
   "entrypoints": [
-    "static/js/main.f8598ac2.js"
+    "static/js/main.d80b5211.js"
   ]
 }
